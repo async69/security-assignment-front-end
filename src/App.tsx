@@ -2,7 +2,7 @@ import React from "react"
 import routes from "./constants/routes"
 import LoginPage from "./pages/Login"
 import RegisterPage from './pages/Register'
-import HomePage from "./pages/Dashboard"
+import HomePage from "./pages/HomePage"
 import { BrowserRouter, Route } from "react-router-dom"
 
 const App = () => {
